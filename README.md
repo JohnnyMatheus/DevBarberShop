@@ -17,6 +17,6 @@
 ## 🔷Descrição do projeto
 <p>Projeto desenvolvido envolvendo as diciplinas Banco de Dados II, Engenharia de Software I e Programação II do curso de Ciências da Computação. O projeto tem por objetivo por em prática os conhecimentos adquiridos em aula.</p>
 <p>
- O sistema 💈<DevBarberShop/>💈foi desenvolvido para gerenciar as operações de uma barbearia, incluindo o cadastro de clientes, fornecedores, funcionários, serviços, produtos, agendamentos e pagamentos. As tabelas foram estruturadas para fornecer um controle eficiente e organizado, garantindo uma gestão integrada de todos os aspectos da barbearia. A seguir, as principais tabelas e suas funcionalidades:
+ O sistema 💈&lt;DevBarberShop/&gt;💈foi desenvolvido para gerenciar as operações de uma barbearia, incluindo o cadastro de clientes, fornecedores, funcionários, serviços, produtos, agendamentos e pagamentos. As tabelas foram estruturadas para fornecer um controle eficiente e organizado, garantindo uma gestão integrada de todos os aspectos da barbearia. A seguir, as principais tabelas e suas funcionalidades:
   
 </p>
