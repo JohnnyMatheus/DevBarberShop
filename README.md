@@ -19,3 +19,15 @@
 <p>
  O sistema 💈&lt;DevBarberShop/&gt;💈foi desenvolvido para gerenciar as operações de uma barbearia, incluindo o cadastro de clientes, fornecedores, funcionários, serviços, produtos, agendamentos e pagamentos. As tabelas foram estruturadas para fornecer um controle eficiente e organizado, garantindo uma gestão integrada de todos os aspectos da barbearia.
 </p>
+
+<h2 align="center">🔷Levantamento de Requisitos</h2>
+
+## 🔹Requisitos Funcionais
+
+
+## 🔹Requisitos não Funcionais
+
+
+
+## 🔹Requisitos de Dominio
+
