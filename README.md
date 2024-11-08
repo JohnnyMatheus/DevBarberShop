@@ -1,10 +1,9 @@
 <p align="center">
-<img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/assets/logoDevBarber.png"/>
+<img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/assets/devbarberLogo.png"/>
 </p>
 
 ## 🔷Tópicos 
 - [Descrição do projeto](#descrição-do-projeto)
-- [Validação de Ideia de Negócio - IConsultaAPP+](#Validação-de-Ideia-de-Negócio-IConsultaAPP+)
 - [Levantamento de Requisitos](#Levantamento-de-Requisitos)
 - [Prototipagem](#Prototipagem)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
@@ -14,3 +13,10 @@
 - [Script Banco de dados](#Script-Banco-de-Dados)
 - [Desenvolvedor](#Desenvolvedor)
 - [Professor](#Professor)
+
+## 🔷Descrição do projeto
+<p>Projeto desenvolvido envolvendo as diciplinas Banco de Dados II, Engenharia de Software I e Programação II do curso de Ciências da Computação. O projeto tem por objetivo por em prática os conhecimentos adquiridos em aula.</p>
+<p>
+ O sistema 💈&lt;DevBarberShop/&gt;💈foi desenvolvido para gerenciar as operações de uma barbearia, incluindo o cadastro de clientes, fornecedores, funcionários, serviços, produtos, agendamentos e pagamentos. As tabelas foram estruturadas para fornecer um controle eficiente e organizado, garantindo uma gestão integrada de todos os aspectos da barbearia. A seguir, as principais tabelas e suas funcionalidades:
+  
+</p>
