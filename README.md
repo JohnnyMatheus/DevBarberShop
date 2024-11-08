@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/assets/logoDevBarber.png"/>
+<img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/assets/devbarberLogo.png"/>
 </p>
 
 ## 🔷Tópicos 
