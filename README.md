@@ -83,7 +83,11 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 ## ⚙️Modelagem
-Você pode [acessar a modelagem do projeto aqui](https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/imagens/modelagem-atualizada.png)
+Você pode [acessar a modelagem do projeto aqui]()
+
+<p align="center">
+<img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/imagens/modelagem-atualizada.png">
+</p>
 
 
 
