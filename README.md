@@ -45,6 +45,9 @@
 
 ## 🔹Requisitos de Dominio
 <p align="center" style="color:bold"><strong>Cliente</strong></p>
+<div align="center">
+<strong>Texto centralizado e em negrito</strong>
+</div>
 <p>Cada cliente deve ter um código de identificação único, nome, telefone, e-mail, endereço (bairro, rua, cidade), sexo e data de nascimento.</p>
 <p>Os dados do cliente são essenciais para o agendamento de serviços e registro de histórico.</p>
 
