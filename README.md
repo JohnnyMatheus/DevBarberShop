@@ -15,3 +15,4 @@
 - [Professor](#Professor)
 
 ## 🔷Descrição do projeto
+<p>Projeto desenvolvido envolvendo as diciplinas Banco de Dados II, Engenharia de Software I e Programação II do curso de Ciências da Computação. O projeto tem por objetivo por em prática os conhecimentos adquiridos em aula.</p>
