@@ -78,8 +78,10 @@
 ## 🔷Protótipo
 
 ## ⚒️Ferramentas utilizadas
+| [<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width=115><br><sub>Postgresql</sub>](https://www.postgresql.org/download/) |  [<img src="https://freesoft.ru/storage/images/221/2207/220636/220636_normal.png" width=115><br><sub>Visual Paradigm 17.1</sub>](https://www.visual-paradigm.com/download/community.jsp) | [<img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width=115><br><sub>DBeaver</sub>](https://dbeaver.io)
+| :---: | :---: | :---: 
 
-| [<img src="https://upload.wikimedia.org/wikipedia/pt/3/3f/Java_Logo.svg" width=115><br><sub>Java</sub>](https://www.oracle.com/java/technologies/javase-downloads.html) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width=115><br><sub>Spring Boot</sub>](https://spring.io/projects/spring-boot) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=115><br><sub>GitHub</sub>](https://github.com/) |
+| [<img src="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)#/media/Ficheiro:Java_programming_language_logo.svg" width=115><br><sub>Java</sub>](https://www.oracle.com/java/technologies/javase-downloads.html) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg" width=115><br><sub>Spring Boot</sub>](https://spring.io/projects/spring-boot) | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width=115><br><sub>GitHub</sub>](https://github.com/) |
 | :---: | :---: | :---: |
 
 | [<img src="https://wiki.postgresql.org/images/3/30/PostgreSQL_logo.3colors.120x120.png" width=115><br><sub>PostgreSQL</sub>](https://www.postgresql.org/download/) | [<img src="https://freesoft.ru/storage/images/221/2207/220636/220636_normal.png" width=115><br><sub>Visual Paradigm</sub>](https://www.visual-paradigm.com/download/community.jsp) | [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=115><br><sub>VS Code</sub>](https://code.visualstudio.com/) |
