@@ -44,17 +44,20 @@
 
 
 ## 🔹Requisitos de Dominio
-<p align="center" style="color:bold"><strong>Cliente</strong></p>
 <div align="center">
-<strong>Texto centralizado e em negrito</strong>
+<strong>Cliente</strong>
 </div>
 <p>Cada cliente deve ter um código de identificação único, nome, telefone, e-mail, endereço (bairro, rua, cidade), sexo e data de nascimento.</p>
 <p>Os dados do cliente são essenciais para o agendamento de serviços e registro de histórico.</p>
 
- <p>Fornecedor</p>
+<div align="center">
+<strong>Fornecedor</strong>
+</div>
 <p>Cada fornecedor deve ter um código único, nome, telefone, e-mail e endereço, facilitando o controle dos produtos e insumos.</p>
 
-<p>Funcionário</p>
+<div align="center">
+<strong>Funcionário</strong>
+</div>
 <p>Funcionários devem ter um código único, nome, telefone, e-mail, cargo e salário.</p>
 <p>Funcionários são essenciais para o agendamento e execução de serviços.</p>
 
