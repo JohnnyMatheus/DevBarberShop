@@ -477,5 +477,15 @@ DROP TABLE IF EXISTS cliente CASCADE;
 DROP TABLE IF EXISTS fornecedor CASCADE;
 ```
 
+## 🧠Desenvolvedor
+| [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br><sub>Johnny Matheus Nogueira de Medeiro</sub>](https://github.com/JohnnyMatheus) |
+| :---: 
+
+## 🔷Professores
+| [<img src="https://avatars.githubusercontent.com/u/20915745?v=4" width=115><br><sub>Otília Donato Barbosa</sub>](https://github.com/otiliadb) | [<img src="https://avatars.githubusercontent.com/u/1161348?v=4" width=115><br><sub>Roberson Alves</sub>](https://github.com/robersonjfa) |
+| :---: | :---: |
+
+
+
 
 
