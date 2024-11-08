@@ -549,7 +549,15 @@ for each row
 execute function auditoria_agendamento();
 
 ```
+## 🎲Políticas e Configuração de Backup e Restore
+```
+--Backup
+pg_dump -U nome_usuario -F c -b -v -f /caminho/do/backup/devbarbershop.bak devbarbershop
 
+--Restaurar Backup
+pg_restore -U nome_usuario -d devbarbershop -v /caminho/do/backup/devbarbershop.bak
+
+```
 
 ## 🧠Desenvolvedor
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br><sub>Johnny Matheus Nogueira de Medeiro</sub>](https://github.com/JohnnyMatheus) |
