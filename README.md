@@ -496,7 +496,60 @@ join agendamento ag on pg.agendamentocodagen = ag.codagen;
 
 ## 🎲Scripts de Criação do Banco de Dados e Índices
 ```
+-- Índices para otimização
+create index idx_cliente_nome on cliente(nomcli);
+create index idx_fornecedor_nome on fornecedor(nomeforn);
+create index idx_funcionario_nome on funcionario(nomefun);
+create index idx_servico_nome on servico(nomeserv);
+
 ```
+
+## 🎲Políticas de Acesso
+```
+-- Criação de usuários e grupos
+create role gerente with login password 'senha_gerente';
+create role atendente with login password 'senha_atendente';
+
+-- Privilégios para gerente
+grant all privileges on all tables in schema public to gerente;
+grant select, insert, update, delete on all tables in schema public to atendente;
+
+```
+## 🎲Gatilhos (Triggers)
+```
+-- Trigger para garantir que a quantidade de produtos nunca seja negativa
+create or replace function verificar_quantidade_produto()
+returns trigger as $$
+begin
+    if new.qtdprod < 0 then
+        raise exception 'A quantidade de produto não pode ser negativa.';
+    end if;
+    return new;
+end;
+$$ language plpgsql;
+
+create trigger trg_verificar_quantidade_produto
+before insert or update on produto
+for each row
+execute function verificar_quantidade_produto();
+
+-- Trigger de auditoria de agendamentos
+create or replace function auditoria_agendamento()
+returns trigger as $$
+begin
+    insert into historico_servico (data_hora, servicocodserv, clientecodcli, funcionariocodfun)
+    values (now(), new.servicocodserv, new.clientecodcli, new.funcionariocodfun);
+    return new;
+end;
+$$ language plpgsql;
+
+create trigger trg_auditoria_agendamento
+after insert on agendamento
+for each row
+execute function auditoria_agendamento();
+
+```
+
 
 ## 🧠Desenvolvedor
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br><sub>Johnny Matheus Nogueira de Medeiro</sub>](https://github.com/JohnnyMatheus) |
