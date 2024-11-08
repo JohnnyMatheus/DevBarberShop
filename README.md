@@ -44,39 +44,34 @@
 
 
 ## 🔹Requisitos de Dominio
-<div align="center">
-<strong>Cliente</strong>
-</div>
+<p>🔸Cliente</p>
 <p>Cada cliente deve ter um código de identificação único, nome, telefone, e-mail, endereço (bairro, rua, cidade), sexo e data de nascimento.</p>
 <p>Os dados do cliente são essenciais para o agendamento de serviços e registro de histórico.</p>
 
-<div align="center">
-<strong>Fornecedor</strong>
-</div>
+<p>🔸Fornecedor</p>
 <p>Cada fornecedor deve ter um código único, nome, telefone, e-mail e endereço, facilitando o controle dos produtos e insumos.</p>
 
-<div align="center">
-<strong>Funcionário</strong>
-</div>
+<p>🔸Funcionário</p>
 <p>Funcionários devem ter um código único, nome, telefone, e-mail, cargo e salário.</p>
 <p>Funcionários são essenciais para o agendamento e execução de serviços.</p>
 
- <p>Serviço</p>
+ <p>🔸Serviço</p>
 <p>Cada serviço deve ter um código, nome, descrição e preço.</p>
 <p>Os serviços são agendados pelos clientes e registrados no histórico de serviços prestados.</p>
 
- <p>Produto</p>
+ <p>🔸Produto</p>
 <p>Cada produto deve ter um código único, nome, descrição, quantidade em estoque e preço.</p>
 <p>Produtos são vinculados a fornecedores e são essenciais para a execução de certos serviços.</p>
 
- <p>Agendamento</p>
+ <p>🔸Agendamento</p>
 <p>Cada agendamento é identificado por um código e contém a data/hora do serviço, cliente e funcionário responsáveis.</p>
 <p>Os agendamentos representam a reserva de um serviço e devem ser gerenciados de acordo com políticas de cancelamento e alteração.</p>
 
- <p>Pagamento</p>
+ <p>🔸Pagamento</p>
 <p>Pagamentos são identificados por um código e contêm informações de valor, data/hora e forma de pagamento, além do cliente e agendamento vinculados.</p>
 <p>O pagamento finaliza a prestação de serviço.</p>
-<p>Histórico de Serviços</p>
+
+<p>🔸Histórico de Serviços</p>
 <p>O histórico de serviços contém registros de todos os serviços realizados, com data/hora, serviço prestado, cliente e funcionário envolvidos.</p>
 <p>Este histórico é importante para consultas futuras sobre serviços realizados e pode ser usado para análise do perfil do cliente.</p>
 
