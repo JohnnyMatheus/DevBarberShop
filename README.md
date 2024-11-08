@@ -476,6 +476,27 @@ DROP TABLE IF EXISTS funcionario CASCADE;
 DROP TABLE IF EXISTS cliente CASCADE;
 DROP TABLE IF EXISTS fornecedor CASCADE;
 ```
+## 🎲SQL para Relatórios (com Views e Joins)
+```
+-- View para visualizar agendamentos com informações do cliente e funcionário
+create view view_agendamentos_completos as
+select ag.codagen, ag.data_hora, ag.status, cl.nomcli, cl.telcli, fn.nomefun
+from agendamento ag
+join cliente cl on ag.clientecodcli = cl.codcli
+join funcionario fn on ag.funcionariocodfun = fn.codfun;
+
+-- View para visualizar pagamentos com detalhes do cliente e agendamento
+create view view_pagamentos as
+select pg.codpag, pg.valor, pg.data_hora_pagamento, pg.forma_pagamento, cl.nomcli, ag.data_hora
+from pagamento pg
+join cliente cl on pg.clientecodcli = cl.codcli
+join agendamento ag on pg.agendamentocodagen = ag.codagen;
+
+```
+
+## 🎲Scripts de Criação do Banco de Dados e Índices
+```
+```
 
 ## 🧠Desenvolvedor
 | [<img src="https://avatars.githubusercontent.com/u/128015032?v=4" width=115><br><sub>Johnny Matheus Nogueira de Medeiro</sub>](https://github.com/JohnnyMatheus) |
