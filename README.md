@@ -86,6 +86,7 @@
 <p align="center">
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/Diagrama%20de%20caso%20de%20Uso.png"/>
 </p>
+
 ## 🔷Diagrama de atividades
 
 
