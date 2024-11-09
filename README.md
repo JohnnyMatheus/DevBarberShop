@@ -7,7 +7,7 @@
 - [Levantamento de Requisitos](#Levantamento-de-Requisitos)
 - [Prototipagem](#Prototipagem)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Diagrama de caso de uso](#DiagramadeAtividades)
+- [Diagrama de caso de uso](#Diagrama-de-atividades)
 - [Diagramas de sequência](Diagramas-de-sequência)
 - [Diagrama de atividades](#Diagrama-de-atividades)
 - [Diagrama de estado](#Diagrama-de-estado)
