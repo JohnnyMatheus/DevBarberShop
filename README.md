@@ -9,6 +9,8 @@
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Diagrama de atividades](#DiagramadeAtividades)
 - [Diagrama de caso de uso](#DiagramadeAtividades)
+- [Diagrama de fluxos](#Diagrama-de-Fluxos)
+- [Diagrama de atividades](#Diagrama-de-atividades)
 - [Modelagem](#Modelagem)
 - [Script Banco de dados](#Script-Banco-de-Dados)
 - [Desenvolvedor](#Desenvolvedor)
