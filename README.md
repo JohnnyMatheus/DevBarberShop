@@ -112,7 +112,7 @@
 
 ## 🔷Diagramas de classes
 <p align=""center>
- <img src=""/>
+ <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20classe.jpg"/>
 </p>
 
 ## ⚙️Modelagem
