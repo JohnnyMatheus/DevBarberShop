@@ -8,8 +8,10 @@
 - [Prototipagem](#Prototipagem)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Diagrama de caso de uso](#DiagramadeAtividades)
-- [Diagrama de fluxos](#Diagrama-de-Fluxos)
+- [Diagramas de sequência](Diagramas-de-sequência)
 - [Diagrama de atividades](#Diagrama-de-atividades)
+- [Diagrama de estado](#Diagrama-de-estado)
+- [Diagrama de classes](#Diagrama-de-classes)
 - [Modelagem](#Modelagem)
 - [Script Banco de dados](#Script-Banco-de-Dados)
 - [Desenvolvedor](#Desenvolvedor)
@@ -93,9 +95,24 @@
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/DIagrama%20de%20fluxo.drawio.png"/>
 </p>
 
+## 🔷Diagramas de sequência
+<p align=""center>
+ <img src=""/>
+</p>
+
 ## 🔷Diagrama de atividades
 <p align=""center>
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20atividades.jpg"/>
+</p>
+
+## 🔷Diagramas de estado
+<p align=""center>
+ <img src=""/>
+</p>
+
+## 🔷Diagramas de classes
+<p align=""center>
+ <img src=""/>
 </p>
 
 ## ⚙️Modelagem
