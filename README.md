@@ -8,8 +8,8 @@
 - [Prototipagem](#Prototipagem)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Diagrama de caso de uso](#Diagrama-de-atividades)
-- [Diagramas de sequência](Diagramas-de-sequência)
-- [Diagrama de atividades](#Diagrama-de-atividades)
+- [Diagramas de sequência](Diagrama-de-sequência)
+- [Diagrama de atividades](#Diagramadeatividades)
 - [Diagrama de estado](#Diagrama-de-estado)
 - [Diagrama de classes](#Diagrama-de-classes)
 - [Modelagem](#Modelagem)
@@ -95,7 +95,7 @@
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/DIagrama%20de%20fluxo.drawio.png"/>
 </p>
 
-## 🔷Diagramas de sequência
+## 🔷Diagrama de sequência
 <p align="center">
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20sequencia.jpg"/>
 </p>
