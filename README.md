@@ -9,7 +9,7 @@
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 - [Diagrama de caso de uso](#Diagrama-de-atividades)
 - [Diagramas de sequência](Diagrama-de-sequência)
-- [Diagrama de atividades](#Diagramadeatividades)
+- [Diagrama de atividades](#Diagrama-de-atividades)
 - [Diagrama de estado](#Diagrama-de-estado)
 - [Diagrama de classes](#Diagrama-de-classes)
 - [Modelagem](#Modelagem)
