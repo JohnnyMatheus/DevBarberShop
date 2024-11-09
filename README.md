@@ -90,11 +90,13 @@
 
 ## 🔷Diagrama de Fluxos
 <p align=""center>
- <img src=https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/DIagrama%20de%20fluxo.drawio.png>
+ <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/DIagrama%20de%20fluxo.drawio.png"/>
 </p>
 
 ## 🔷Diagrama de atividades
-
+<p align=""center>
+ <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20atividades.jpg"/>
+</p>
 
 ## ⚙️Modelagem
 Você pode [acessar a modelagem do projeto aqui]()
