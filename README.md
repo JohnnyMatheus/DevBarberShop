@@ -91,7 +91,7 @@
 </p>
 
 ## 🔷Diagrama de Fluxos
-<p align=""center>
+<p align="center">
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/DIagrama%20de%20fluxo.drawio.png"/>
 </p>
 
@@ -101,17 +101,17 @@
 </p>
 
 ## 🔷Diagrama de atividades
-<p align=""center>
+<p align="center">
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20atividades.jpg"/>
 </p>
 
 ## 🔷Diagramas de estado
-<p align="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/Diagrama%20de%20Estados.png"center>
- <img src=""/>
+<p align="center">
+ <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/Diagrama%20de%20Estados.png"/>
 </p>
 
 ## 🔷Diagramas de classes
-<p align=""center>
+<p align="center">
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20classe.jpg"/>
 </p>
 
