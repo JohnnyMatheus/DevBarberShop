@@ -96,7 +96,7 @@
 </p>
 
 ## 🔷Diagramas de sequência
-<p align=""center>
+<p align="center">
  <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/diagrama%20de%20sequencia.jpg"/>
 </p>
 
