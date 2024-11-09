@@ -106,7 +106,7 @@
 </p>
 
 ## 🔷Diagramas de estado
-<p align=""center>
+<p align="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/Diagramas/Diagrama%20de%20Estados.png"center>
  <img src=""/>
 </p>
 
