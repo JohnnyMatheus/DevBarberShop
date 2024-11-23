@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.barbearia.BarbeariaApp"},{"l":"com.barbearia.BarbeariaApp.controller"},{"l":"com.barbearia.BarbeariaApp.model"},{"l":"com.barbearia.BarbeariaApp.repository"}];updateSearchResults();
