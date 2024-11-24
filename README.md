@@ -122,6 +122,43 @@ Você pode [acessar a modelagem do projeto aqui]()
 <img src="https://github.com/JohnnyMatheus/DevBarberShop-Trabalho-Final/blob/main/imagens/modelagem-atualizada.png">
 </p>
 
+## ☕Estrutura do projeto
+
+```
+src/main/java/com/barbearia
+│
+├── controller/
+│       ├── ClienteController.java
+│       ├── FornecedorController.java
+│       ├── FuncionarioController.java
+│       ├── ServicoController.java
+│       ├── ProdutoController.java
+│       ├── AgendamentoController.java
+│       └── PagamentoController.java
+│
+├── model/
+│       ├── Cliente.java
+│       ├── Fornecedor.java
+│       ├── Funcionario.java
+│       ├── Servico.java
+│       ├── Produto.java
+│       ├── Agendamento.java
+│       ├── Pagamento.java
+│       └── HistoricoServico.java
+│
+├── repository/
+│       ├── ClienteRepository.java
+│       ├── FornecedorRepository.java
+│       ├── FuncionarioRepository.java
+│       ├── ServicoRepository.java
+│       ├── ProdutoRepository.java
+│       ├── AgendamentoRepository.java
+│       ├── PagamentoRepository.java
+│       └── HistoricoServicoRepository.java
+```
+
+
+
 ## 🎲Script - Criação do Banco do Dados
 ```sql
 --Script - criação do Banco do Dados
